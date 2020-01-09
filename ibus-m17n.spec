@@ -2,7 +2,7 @@
 
 Name:       ibus-m17n
 Version:    1.3.0
-Release:    1%{?dist}
+Release:    2%{?dist}
 Summary:    The M17N engine for IBus platform
 License:    GPLv2+
 Group:      System Environment/Libraries
@@ -10,6 +10,8 @@ URL:        http://code.google.com/p/ibus/
 Source0:    http://ibus.googlecode.com/files/%{name}-%{version}.tar.gz
 
 Patch0:     ibus-m17n-iok.patch
+Patch1:	    ibus-m17n-641243-indic-ranks.patch
+Patch2:	    ibus-m17n-652201-altgr.patch
 
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildRequires:  gettext-devel
@@ -28,7 +30,9 @@ the input table maps from m17n-db.
 
 %prep
 %setup -q
-%patch0 -p1
+%patch0 -p1 -b .iok
+%patch1 -p1 -b .indic-ranks
+%patch2 -p1 -b .altgr
 
 %build
 %configure --disable-static
@@ -52,6 +56,14 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/ibus/component/*
 
 %changelog
+* Tue Jan  4 2011 Daiki Ueno <dueno@redhat.com> - 1.3.0-2
+- Add ibus-m17n-641243-indic-ranks.patch.
+- Fix bug 641243 - Ibus does not load all the keymaps for a language
+  that is used for logging in
+- Add ibus-m17n-652201-altgr.patch.
+- Fix bug 652201 - [Indic] Rupee Symbol (U+20B9) Need to include in
+  Indic Keyboard
+
 * Mon Mar 29 2010 Peng Huang <shawn.p.huang@gmail.com> - 1.3.0-1
 - Update to 1.3.0.
 - Update iok patch.
