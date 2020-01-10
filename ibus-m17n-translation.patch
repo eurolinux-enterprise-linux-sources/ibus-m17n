@@ -1,0 +1,2337 @@
+Index: ibus-m17n-1.3.4/po/as.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/as.po
+@@ -0,0 +1,99 @@
++# ngoswami <ngoswami@redhat.com>, 2013. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2013-12-19 10:23-0500\n"
++"Last-Translator: ngoswami <ngoswami@redhat.com>\n"
++"Language-Team: Assamese\n"
++"Language: as\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "চিস্টেম"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "উলম্ব"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "আনুভূমিক"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "এটা"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "দুটা"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "নিম্ন"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "একো নাই"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "পছন্দসমূহ"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "পুৰভূমি"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "পটভূমি:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "নিম্নৰেখা:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>পূ্ৰ্ব-সম্পাদন ৰূপ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "দৰ্শন টেবুল দিশনিৰ্ণয়:"
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "US কিবৰ্ড বিন্যাস ব্যৱহাৰ কৰক"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>অন্য</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "সাধাৰণ"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib সংৰূপ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "উন্নত"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N সংস্থাপন"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "IBus M17N ইঞ্জিন সংস্থাপন কৰক"
+Index: ibus-m17n-1.3.4/po/bn_IN.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/bn_IN.po
+@@ -0,0 +1,99 @@
++# sray <sray@redhat.com>, 2014. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-01-02 07:13-0500\n"
++"Last-Translator: sray <sray@redhat.com>\n"
++"Language-Team: Bengali (India)\n"
++"Language: bn-IN\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "সিস্টেম"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "উল্লম্ব"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "অনুভূমিক"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "একক"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "দ্বৈত"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "নিম্ন"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "একটিও নেই"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "পছন্দ"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "অগ্রভূমি:"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "পটভূমি:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "অান্ডারলাইন:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>অবয়ব প্রাক-সম্পাদনা</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "সারণী সজ্জা সন্ধান: "
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "US কীবোর্ড সজ্জা ব্যবহার করুন"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>অন্যান্য</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "সাধারণ"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib কনফিগারেশন</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "উন্নত"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N সেটঅাপ"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "IBus M17N ইঞ্জিন সেট অাপ করুন"
+Index: ibus-m17n-1.3.4/po/de.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/de.po
+@@ -0,0 +1,99 @@
++# rgromans <rgromans@redhat.com>, 2013. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2013-12-19 05:16-0500\n"
++"Last-Translator: rgromans <rgromans@redhat.com>\n"
++"Language-Team: German\n"
++"Language: de\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "System"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "Vertikal"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "Horizontal"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "Einfach"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "Doppelt"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "Niedrig"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "Keine"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "Einstellungen"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "Vordergrund:"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "Hintergrund:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "Unterstreichung:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>Aussehen vor Edit</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "Ausrichtung Lookup-Tabelle:"
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "US Tastaturbelegung verwenden"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>Andere</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "Allgemein"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib Konfiguration</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "Fortgeschritten"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N Einrichten"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "Einrichten IBus M17N Engine"
+Index: ibus-m17n-1.3.4/po/es.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/es.po
+@@ -0,0 +1,99 @@
++# gguerrer <gguerrer@redhat.com>, 2014. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-01-09 08:00-0500\n"
++"Last-Translator: gguerrer <gguerrer@redhat.com>\n"
++"Language-Team: Spanish\n"
++"Language: es\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "Sistema"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "Vertical"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "Horizontal"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "Individual"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "Doble"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "Bajo"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "Ninguno"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "Preferencias"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "Primer plano:"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "Segundo plano:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "Subrayar:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>Preeditar apariencia</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "Orientación de tabla de búsqueda:"
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "Usar distribución de teclado de Estados Unidos "
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>Otro</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "General"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>Configuración de m17n-lib</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "Avanzada"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "Configuración de IBus M17N"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "Configurar motor de IBUS M17N"
+Index: ibus-m17n-1.3.4/po/fr.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/fr.po
+@@ -0,0 +1,99 @@
++# Sam Friedmann <sfriedma@redhat.com>, 2013. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2013-12-23 08:21-0500\n"
++"Last-Translator: Sam Friedmann <sfriedma@redhat.com>\n"
++"Language-Team: French\n"
++"Language: fr\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n > 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "Système"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "Vertical"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "Horizontal"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "Unique"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "Double"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "Bas"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "Aucun"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "Préférences"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "Avant-plan :"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "Arrière-plan :"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "Souligné :"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>Pré-modifier l'apparence</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "Orientation de la table de recherche :"
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "Utiliser l'agencement de clavier US"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>Autre</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "Général"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>Configuration m17n-lib</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "Avancé"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "Paramétrage IBus M17N"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "Paramétrer le moteur IBus M17N"
+Index: ibus-m17n-1.3.4/po/gu.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/gu.po
+@@ -0,0 +1,99 @@
++# Ankit Patel <ankit@redhat.com>, 2013. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2013-12-23 07:08-0500\n"
++"Last-Translator: Ankit Patel <ankit@redhat.com>\n"
++"Language-Team: Gujarati\n"
++"Language: gu\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "સિસ્ટમ"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "ઊભુ"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "આડુ"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "એક"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "દ્વિ"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "નીચું"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "કંઇ નહિં"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "પસંદગીઓ"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "અગ્ર ભાગ: "
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "પાશ્વ ભાગ:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "નીચે લીટી:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>ફેરફાર-પહેલાંનો દેખાવ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "લુકઅપ કોષ્ટક દિશા: "
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "US કીબૉર્ડ લેઆઉટ વાપરો"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>અન્ય</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "સામાન્ય"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib રૂપરેખાંકન</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "અદ્યતન"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N સુયોજન"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "IBus M17N એંજીન સુયોજીત કરો"
+Index: ibus-m17n-1.3.4/po/hi.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/hi.po
+@@ -0,0 +1,99 @@
++# s <s>, 2014.
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-01-03 01:42-0500\n"
++"Last-Translator: s <s>\n"
++"Language-Team: Hindi <kde-i18n-doc@kde.org>\n"
++"Language: hi\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "तंत्र"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "लम्बवत"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "क्षैतिज"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "अकेला"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "दोगुना"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "कम"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "कोई नहीं"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "वरीयताएँ"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "अग्रभूमि: "
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "पृष्ठभूमि:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "रेखांकित:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>पूर्व संपादित प्रकटन</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "लुकअप सारणी दिशा: "
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "यूएस कुँजीपट ख़ाका का उपयोग करें"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>अन्य</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "सामान्य"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib विन्यास</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "विस्तृत"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N सेटअप"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "IBus M17N ईंजन सेटअप करें"
+Index: ibus-m17n-1.3.4/po/ibus-m17n.pot
+===================================================================
+--- ibus-m17n-1.3.4.orig/po/ibus-m17n.pot
++++ ibus-m17n-1.3.4/po/ibus-m17n.pot
+@@ -1,5 +1,5 @@
+ # SOME DESCRIPTIVE TITLE.
+-# Copyright (C) YEAR Huang Peng <shawn.p.huang@gmail.com>
++# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+ # This file is distributed under the same license as the PACKAGE package.
+ # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+ #
+@@ -7,8 +7,8 @@
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: PACKAGE VERSION\n"
+-"Report-Msgid-Bugs-To: http://code.google.com/p/ibus/issues/entry\n"
+-"POT-Creation-Date: 2012-05-08 09:51+0900\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
+ "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+ "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+ "Language-Team: LANGUAGE <LL@li.org>\n"
+@@ -17,6 +17,86 @@ msgstr ""
+ "Content-Type: text/plain; charset=CHARSET\n"
+ "Content-Transfer-Encoding: 8bit\n"
+ 
+-#: src/m17nutil.c:341
++#: ../src/m17nutil.c:351
+ msgid "M17N"
+ msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr ""
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr ""
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr ""
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr ""
+Index: ibus-m17n-1.3.4/po/it.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/it.po
+@@ -0,0 +1,99 @@
++# fvalen <fvalen@redhat.com>, 2014. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-01-02 06:22-0500\n"
++"Last-Translator: fvalen <fvalen@redhat.com>\n"
++"Language-Team: Italian\n"
++"Language: it\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "Sistema"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "Verticale"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "Orizzontale"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "Singolo"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "Doppio"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "Basso"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "Nessuno"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "Preferenze"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "Primo piano: "
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "Sfondo:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "Trattino basso:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>Premodifica l'aspetto</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "Ricerca tabella orientamento:"
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "Usa il modello di tastiera US"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>Altro</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "Generale"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>Configurzione m17n-lib</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "Avanzata"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "Impostazione IBus M17N"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "Impostazione motore IBus M17N"
+Index: ibus-m17n-1.3.4/po/ja.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/ja.po
+@@ -0,0 +1,99 @@
++# noriko <noriko@redhat.com>, 2014. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-01-05 11:15-0500\n"
++"Last-Translator: noriko <noriko@redhat.com>\n"
++"Language-Team: Japanese\n"
++"Language: ja\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=1; plural=0\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "システム"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "縦"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "横"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "シングル"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "ダブル"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "低"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "なし"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "設定"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "フォアグラウンド:"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "バックグラウンド:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "下線:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>編集中の外観</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "表の向きを検索:"
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "US キーボードレイアウトを使用する"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>その他</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "全般"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib 設定</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "高度"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N セットアップ"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "IBus M17N エンジンのセットアップ"
+Index: ibus-m17n-1.3.4/po/kn.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/kn.po
+@@ -0,0 +1,99 @@
++# Shankar <svenkate@redhat.com>, 2013. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2013-12-26 04:06-0500\n"
++"Last-Translator: Shankar <svenkate@redhat.com>\n"
++"Language-Team: Kannada\n"
++"Language: kn\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n!=1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "ವ್ಯವಸ್ಥೆ"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "ಉದ್ದ"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "ಅಡ್ಡ"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "ಒಂದು"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "ಜೋಡಿ"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "ಕೆಳ ಮಟ್ಟದ"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "ಯಾವುದೂ ಇಲ್ಲ"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "ಆದ್ಯತೆಗಳು"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "ಮುನ್ನೆಲೆ:"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "ಹಿನ್ನಲೆ:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "ಅಡಿಗೆರೆ:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>ಪ್ರಿ-ಎಡಿಟ್ ಗೋಚರಿಕೆ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "ಲುಕ್‌ಅಪ್ ಕೋಷ್ಟಕದ ವಾಲಿಕೆ"
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "US ಕೀಲಿಮಣೆ ವಿನ್ಯಾಸವನ್ನು ಬಳಸಿ"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>ಇತರೆ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "ಸಾಮಾನ್ಯ"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib ಸಂರಚನೆ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "ಸುಧಾರಿತ"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N ಸಿದ್ಧತೆ"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "IBus M17N ಎಂಜಿನ್ ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸು"
+Index: ibus-m17n-1.3.4/po/ko.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/ko.po
+@@ -0,0 +1,99 @@
++# eukim <eukim@redhat.com>, 2014. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-01-03 12:33-0500\n"
++"Last-Translator: eukim <eukim@redhat.com>\n"
++"Language-Team: Korean\n"
++"Language: ko\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=1; plural=0\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "시스템 "
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "세로"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "가로"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "단일 "
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "이중 "
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "낮음 "
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "없음"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "환경설정"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "전경:"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "배경:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "밑줄: "
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>사전 편집 모양</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "표 방향 검색: "
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "US 키보드 레이아웃 사용 "
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>기타</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "일반"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib 설정</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "고급"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N 설정 "
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "IBus M17N 엔진 설정 "
+Index: ibus-m17n-1.3.4/po/ml.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/ml.po
+@@ -0,0 +1,99 @@
++# apeter <apeter@redhat.com>, 2013. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2013-12-27 06:37-0500\n"
++"Last-Translator: apeter <apeter@redhat.com>\n"
++"Language-Team: Malayalam\n"
++"Language: ml\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "സിസ്റ്റം"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "നേരെയുള്ള"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "കുറുകെയുള്ള"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "ഒറ്റ"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "ഇരട്ട"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "കുറഞ്ഞ"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "ഒന്നുമില്ല"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "മുന്‍ഗണനകള്‍"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "തിരുമുറ്റം:"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "പശ്ചാത്തലം:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "അടിവര:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>ചിട്ടപ്പെടുത്തുന്നതിനുള്ള മുമ്പുള്ള ദൃശ്യം</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "ലുക്കപ്പ് പട്ടികയുടെ ക്രമീകരണം:"
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "യുഎസ് കീബോര്‍ഡ് ശൈലി ഉപയോഗിയ്ക്കുക"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>മറ്റുള്ളവ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "സാധാരണ"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib ക്രമീകരണം</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "സങ്കീര്‍ണ്ണമായ"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "ഐബസ് M17N സജ്ജീകരണം"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "ഐബസ് M17N എഞ്ചിന്‍ സജ്ജമാക്കുക"
+Index: ibus-m17n-1.3.4/po/mr.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/mr.po
+@@ -0,0 +1,99 @@
++# sshedmak <sshedmak@redhat.com>, 2013. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2013-12-26 01:03-0500\n"
++"Last-Translator: sshedmak <sshedmak@redhat.com>\n"
++"Language-Team: Marathi <sshedmak@redhat.com>\n"
++"Language: mr\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "प्रणाली"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "उभे"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "आडवे"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "एकच"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "दोनवेळा"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "कमी"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "काहीही नाही"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "पसंती"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "अग्रभूमी:"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "पार्श्वभूमी:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "अधोरेखीत:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>पूर्व-संपादन दृष्य</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "लूकअप तक्ता निर्देशन: "
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "US किबोर्ड मांडणीचा वापर करा"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>इतर</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "सामान्य"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib संरचना</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "प्रगत"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N सेटअप"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "IBus M17N इंजिनचे सेट अप करा"
+Index: ibus-m17n-1.3.4/po/or.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/or.po
+@@ -0,0 +1,99 @@
++# Manoj Kumar Giri <mgiri@redhat.com>, 2013.
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2013-12-23 08:17-0500\n"
++"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
++"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
++"Language: or\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "ତନ୍ତ୍ର"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "ଭୂ-ଲମ୍ବ"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "ଭୂ-ସମାନ୍ତରାଳ"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "ଏକମାତ୍ର"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "ଦ୍ବିଗୁଣିତ"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "ନିମ୍ନ"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "କିଛି ନାହିଁ"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "ପସନ୍ଦ"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "ପ୍ରଚ୍ଛଦଭୂମି: "
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "ପୃଷ୍ଠଭୂମି:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "ରେଖାଙ୍କିତ:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>ଦୃଶ୍ୟକୁ ପୂର୍ବରୁ ସମ୍ପାଦନ କରନ୍ତୁ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "ନିରୀକ୍ଷଣ ସାରଣୀ ଆବର୍ତ୍ତନ: "
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "US କିବୋର୍ଡ ବିନ୍ୟାସକୁ ବ୍ୟବହାର କରନ୍ତୁ"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>ଅନ୍ଯାନ୍ଯ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "ସାଧାରଣ"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib ସଂରଚନା</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "ଉନ୍ନତ"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N ବ୍ୟବସ୍ଥା"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "IBus M17N ଯନ୍ତ୍ର ବ୍ୟବସ୍ଥା କରନ୍ତୁ"
+Index: ibus-m17n-1.3.4/po/pa.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/pa.po
+@@ -0,0 +1,99 @@
++# asaini <asaini@redhat.com>, 2013. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2013-12-19 10:31-0500\n"
++"Last-Translator: asaini <asaini@redhat.com>\n"
++"Language-Team: Punjabi\n"
++"Language: pa\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "ਸਿਸਟਮ"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "ਖੜਵੇਂ ਦਾਅ"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "ਲੇਟਵੇਂ ਦਾਅ"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "ਇਕਹਿਰਾ"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "ਦੁੱਗਣਾ"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "ਘੱਟ"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "ਕੋਈ ਨਹੀਂ"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "ਤਰਜੀਹਾਂ"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "ਅਗਲਾ ਤਲ: "
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "ਪਿਛਲਾ ਤਲ:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "ਹੇਠਾਂ ਲਕੀਰ:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>ਸੋਧ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਦਿੱਖ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "ਖੋਜ ਸਾਰਣੀ ਦੀ ਸਥਿਤੀ: "
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "US ਕੀਅ-ਬੋਰਡ ਖਾਕਾ ਵਰਤੋ"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>ਹੋਰ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "ਆਮ"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib ਸੰਰਚਨਾ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "ਉੱਨਤ"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N ਸੈੱਟਅਪ"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "IBus M17N ਇੰਜਣ ਸੈੱਟਅਪ ਕਰੋ"
+Index: ibus-m17n-1.3.4/po/pt_BR.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/pt_BR.po
+@@ -0,0 +1,99 @@
++# gcintra <gcintra@redhat.com>, 2014. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-01-03 04:07-0500\n"
++"Last-Translator: gcintra <gcintra@redhat.com>\n"
++"Language-Team: Portuguese (Brazil)\n"
++"Language: pt-BR\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "Sistema"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "Vertical"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "Horizontal"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "Único"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "Duplo"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "Baixo"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "Nenhum"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "Preferências"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "Primeiro plano:"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "Plano de fundo:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "Sublinhado:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>Aparência da Pré-edição</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "Procurar em Orientação de Tabela:"
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "Usa o desenho do teclado do US"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>Outro</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "Geral"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>Configuração do m17n-lib</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "Avançado"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "Configuração do IBus M17N"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "Configuração do motor de IBus M17N"
+Index: ibus-m17n-1.3.4/po/ru.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/ru.po
+@@ -0,0 +1,100 @@
++# ypoyarko <ypoyarko@redhat.com>, 2014. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-01-01 06:53-0500\n"
++"Last-Translator: ypoyarko <ypoyarko@redhat.com>\n"
++"Language-Team: Russian\n"
++"Language: ru\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
++"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "Система"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "Вертикальная"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "Горизонтальная"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "Одинарная"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "Двойная"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "Низкая"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "Нет"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "Параметры"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "Передний план:"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "Фон:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "Подчеркивание:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>Внешний вид</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "Ориентация таблицы поиска:"
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "Использовать раскладку США"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>Другие</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "Общие"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>Конфигурация m17n-lib</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "Дополнительно"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "Настройка IBus M17N"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "Определение параметров IBus M17N"
+Index: ibus-m17n-1.3.4/po/ta.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/ta.po
+@@ -0,0 +1,99 @@
++# Shantha kumar <shkumar@redhat.com>, 2013.
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2013-12-24 12:28-0500\n"
++"Last-Translator: Shantha kumar <shkumar@redhat.com>\n"
++"Language-Team: Tamil <>\n"
++"Language: ta\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "முறைமை"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "செங்குத்து"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "கிடைமட்டம்"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "ஒற்றை"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "இரட்டை"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "குறைவு"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "எதுவுமில்லை"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "முன்னுரிமைகள்"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "முன்புலம்:"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "பின்புலம்:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "அடிக்கோடு:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>திருத்தத்துக்கு முந்தைய தோற்றம்</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "அட்டவணை திசையமைவைத் தேடு: "
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "US விசைப்பலகை லேயவுட்டைப் பயன்படுத்து"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>மற்றவை</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "பொது"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib அமைவாக்கம்</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "மேம்பட்ட"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N அமைவு"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "IBus M17N எஞ்சினை அமை"
+Index: ibus-m17n-1.3.4/po/te.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/te.po
+@@ -0,0 +1,99 @@
++# kkrothap <kkrothap@redhat.com>, 2013. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2013-12-24 07:21-0500\n"
++"Last-Translator: kkrothap <kkrothap@redhat.com>\n"
++"Language-Team: Telugu\n"
++"Language: te\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=2; plural=(n != 1)\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "వ్యవస్థ"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "నిలువుగా"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "అడ్డంగా"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "ఒంటరి"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "ద్వంద్వ"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "తక్కువ"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "ఏదీకాదు"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "అభీష్టాలు"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "ఫోర్‌గ్రౌండ్:"
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "బ్యాక్‌గ్రౌండ్:"
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "కిందిగీత:"
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>కనిపించువిధం ముందుగా-కూర్చు</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "లుకప్ పట్టిక సర్దుబాటు:"
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "US కీబోర్డ్ నమూనా ఉపయోగించు"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>ఇతర</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "సాధారణ"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib ఆకృతీకరణ</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "అధునాతన"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N అమర్పు"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "IBus M17N యంత్రము అమర్పు"
+Index: ibus-m17n-1.3.4/po/zh_CN.po
+===================================================================
+--- ibus-m17n-1.3.4.orig/po/zh_CN.po
++++ ibus-m17n-1.3.4/po/zh_CN.po
+@@ -1,22 +1,99 @@
+-# SOME DESCRIPTIVE TITLE.
+-# Copyright (C) YEAR Huang Peng <shawn.p.huang@gmail.com>
+-# This file is distributed under the same license as the PACKAGE package.
+-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+-#
+-#, fuzzy
++# Leah Liu <lliu@redhat.com>, 2013. #zanata
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: PACKAGE VERSION\n"
+-"Report-Msgid-Bugs-To: http://code.google.com/p/ibus/issues/entry\n"
+-"POT-Creation-Date: 2012-05-08 09:51+0900\n"
+-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+-"Language-Team: LANGUAGE <LL@li.org>\n"
+-"Language: \n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
+ "MIME-Version: 1.0\n"
+-"Content-Type: text/plain; charset=utf-8\n"
++"Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2013-12-19 10:04-0500\n"
++"Last-Translator: Leah Liu <lliu@redhat.com>\n"
++"Language-Team: Chinese (China)\n"
++"Language: zh-CN\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=1; plural=0\n"
+ 
+-#: src/m17nutil.c:341
++#: ../src/m17nutil.c:351
+ msgid "M17N"
+-msgstr ""
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "系统"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "垂直"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "水平"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "单"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "双"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "低"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "无"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "首选项"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "前端："
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "背景："
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "下划线："
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>预编辑外观</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "查找表格方向："
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "使用美国键盘布局"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>其他</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "常规"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib 配置</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "高级"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N 设置"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "设置 IBus M17N 引擎"
+Index: ibus-m17n-1.3.4/po/zh_TW.po
+===================================================================
+--- /dev/null
++++ ibus-m17n-1.3.4/po/zh_TW.po
+@@ -0,0 +1,99 @@
++# tchuang <tchuang@redhat.com>, 2014. #zanata
++msgid ""
++msgstr ""
++"Project-Id-Version: PACKAGE VERSION\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2013-12-19 16:58+0530\n"
++"MIME-Version: 1.0\n"
++"Content-Type: text/plain; charset=UTF-8\n"
++"Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-01-06 06:00-0500\n"
++"Last-Translator: tchuang <tchuang@redhat.com>\n"
++"Language-Team: Chinese (Taiwan)\n"
++"Language: zh-TW\n"
++"X-Generator: Zanata 3.2.1\n"
++"Plural-Forms: nplurals=1; plural=0\n"
++
++#: ../src/m17nutil.c:351
++msgid "M17N"
++msgstr "M17N"
++
++#: ../src/ibus-m17n-preferences.ui.h:1
++msgid "System"
++msgstr "系統"
++
++#: ../src/ibus-m17n-preferences.ui.h:2
++msgid "Vertical"
++msgstr "垂直"
++
++#: ../src/ibus-m17n-preferences.ui.h:3
++msgid "Horizontal"
++msgstr "水平"
++
++#: ../src/ibus-m17n-preferences.ui.h:4
++msgid "Single"
++msgstr "單"
++
++#: ../src/ibus-m17n-preferences.ui.h:5
++msgid "Double"
++msgstr "雙"
++
++#: ../src/ibus-m17n-preferences.ui.h:6
++msgid "Low"
++msgstr "低"
++
++#: ../src/ibus-m17n-preferences.ui.h:7
++msgid "None"
++msgstr "無"
++
++#: ../src/ibus-m17n-preferences.ui.h:8
++msgid "Preferences"
++msgstr "偏好設定"
++
++#: ../src/ibus-m17n-preferences.ui.h:9
++msgid "Foreground: "
++msgstr "前景："
++
++#: ../src/ibus-m17n-preferences.ui.h:10
++msgid "Background:"
++msgstr "背景："
++
++#: ../src/ibus-m17n-preferences.ui.h:11
++msgid "Underline:"
++msgstr "底線："
++
++#: ../src/ibus-m17n-preferences.ui.h:12
++msgid "<b>Pre-edit Appearance</b>"
++msgstr "<b>預先編輯的外觀</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:13
++msgid "Lookup Table Orientation: "
++msgstr "查看表格方向："
++
++#: ../src/ibus-m17n-preferences.ui.h:14
++msgid "Use US keyboard layout"
++msgstr "使用美國鍵盤配置"
++
++#: ../src/ibus-m17n-preferences.ui.h:15
++msgid "<b>Other</b>"
++msgstr "<b>其它</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:16
++msgid "General"
++msgstr "一般"
++
++#: ../src/ibus-m17n-preferences.ui.h:17
++msgid "<b>m17n-lib Configuration</b>"
++msgstr "<b>m17n-lib 配置</b>"
++
++#: ../src/ibus-m17n-preferences.ui.h:18
++msgid "Advanced"
++msgstr "進階"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:1
++msgid "IBus M17N Setup"
++msgstr "IBus M17N 設定"
++
++#: ../src/ibus-setup-m17n.desktop.in.in.h:2
++msgid "Set up IBus M17N engine"
++msgstr "設定 IBus M17N 引擎"
+Index: ibus-m17n-1.3.4/po/LINGUAS
+===================================================================
+--- ibus-m17n-1.3.4.orig/po/LINGUAS
++++ ibus-m17n-1.3.4/po/LINGUAS
+@@ -1,2 +1,21 @@
++as
++bn_IN
++de
++es
++fr
++gu
++hi
++it
++ja
++kn
++ko
++ml
++mr
++or
++pa
++pt_BR
++ru
++ta
++te
+ zh_CN
+-
++zh_TW

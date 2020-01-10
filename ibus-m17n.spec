@@ -1,7 +1,7 @@
 %global require_ibus_version 1.4.0
 Name:       ibus-m17n
 Version:    1.3.4
-Release:    10%{?dist}
+Release:    13%{?dist}
 Summary:    The M17N engine for IBus platform
 License:    GPLv2+
 Group:      System Environment/Libraries
@@ -17,6 +17,8 @@ Patch1:	    ibus-m17n-fix-data-location.patch
 Patch100:     ibus-m17n-xkb-options.patch
 # Don't make the status button clickable (maybe obsolete).
 Patch101:	    ibus-m17n-hide-title-status.patch
+# Translation update from Zanata.
+Patch102:     ibus-m17n-translation.patch
 
 # The following BR is for autogen and not necessary when packging
 # released tarballs.
@@ -44,6 +46,7 @@ the input table maps from m17n-db.
 %patch1 -p1 -b .fix-data-location
 %patch100 -p1 -b .xkb-options
 %patch101 -p1 -b .hide-title-status
+%patch102 -p1 -b .translation
 
 NOCONFIGURE=1 ./autogen.sh
 
@@ -68,6 +71,16 @@ desktop-file-validate ${RPM_BUILD_ROOT}%{_datadir}/applications/ibus-setup-m17n.
 %{_datadir}/applications/ibus-setup-m17n.desktop
 
 %changelog
+* Tue Feb  4 2014 Daiki Ueno <dueno@redhat.com> - 1.3.4-13
+- Add ibus-m17n-translation.patch
+- Fix bug 1056957 - [ibus-m17n] Translations incomplete
+
+* Fri Jan 24 2014 Daniel Mach <dmach@redhat.com> - 1.3.4-12
+- Mass rebuild 2014-01-24
+
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.3.4-11
+- Mass rebuild 2013-12-27
+
 * Mon May 13 2013 Daiki Ueno <dueno@redhat.com> - 1.3.4-10
 - Add ibus-m17n-fix-data-location.patch
 - Fix bug 962144 [abrt] ibus-m17n-1.3.4-9.fc19:
